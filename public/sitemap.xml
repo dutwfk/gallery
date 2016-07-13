@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gallery.range.org/about/index.html</loc>
+    
+    <lastmod>2016-07-13T09:07:36.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gallery.range.org/categories/index.html</loc>
     
     <lastmod>2016-07-13T08:12:54.000Z</lastmod>
