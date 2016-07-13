@@ -70,4 +70,4 @@ theme: next
 deploy:
   type: git
   repository: git@github.com:dutwfk/gallery.git
-  branch: gh-page
+  branch: gh-pages
